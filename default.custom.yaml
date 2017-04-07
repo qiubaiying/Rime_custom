@@ -5,7 +5,7 @@ patch:
     - Control+grave
 
   menu:
-    page_size: 7
+    page_size: 5
   schema_list:
   - schema: luna_pinyin_simp
   - schema: luna_pinyin
