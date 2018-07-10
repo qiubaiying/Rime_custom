@@ -4,7 +4,7 @@ patch:
     style/color_scheme: Demo       # 选择配色方案
     style/horizontal: false           # 候选窗横向显示
 ### style/inline_preedit: false   # 关闭内嵌编码，这样就可以显示首行的拼音（MAC下不建议开启）
-    style/corner_radius: 8           # 窗口圆角半径
+    style/corner_radius: 5           # 窗口圆角半径
     style/border_height: 0           # 窗口边界高度，大于圆角半径才有效果
     tyle/border_width: 0             # 窗口边界宽度，大于圆角半径才有效果
   # style/line_spacing: 1         # 候选词的行间距

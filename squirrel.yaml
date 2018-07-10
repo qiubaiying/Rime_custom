@@ -26,15 +26,15 @@ app_options:
     ascii_mode: true
     no_inline: true
 chord_duration: 0.1
-config_version: 0.22.custom.4224954492
-customization: 4224954492
+config_version: 0.22.custom.1845609149
+customization: 1845609149
 show_notifications_via_notification_center: false
 show_notifications_when: appropriate
 style:
   border_height: 0
   border_width: 0
   color_scheme: Demo
-  corner_radius: 8
+  corner_radius: 5
   font_face: "Lucida Grande"
   font_point: 18
   horizontal: false
